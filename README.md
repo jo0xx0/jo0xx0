@@ -1,6 +1,6 @@
 
 <img width="250" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NlZ3pmbnJmNnN4bTg2a3NxMzAwc2N3eTlndjlrOHlzZXM3Zmx6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1lznwaBnIHPSdFxryV/giphy.gif">
-<img width="250" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ViZG96MGVneXFiM2I5MHE4Y3N3OHpqdGlqcTkwNHBibXQ0a3NqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif">
+<img width="250" align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ViZG96MGVneXFiM2I5MHE4Y3N3OHpqdGlqcTkwNHBibXQ0a3NqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif">
 
 <h3 align="center">
   Welcome to Yousef Hisham's profile!
