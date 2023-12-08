@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="[https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRjYTY0bWljZHIzOHUzMnRtdnB6NXpsZGNvbzVqMGJubzByZW5sYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tPjlmJzj9Z99vwF5dV/giphy.gif)">
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
   Welcome to Yousef Hisham's profile!
