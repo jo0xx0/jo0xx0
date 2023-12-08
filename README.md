@@ -1,6 +1,5 @@
 
 <img width="250" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NlZ3pmbnJmNnN4bTg2a3NxMzAwc2N3eTlndjlrOHlzZXM3Zmx6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1lznwaBnIHPSdFxryV/giphy.gif">
-<img width="250" align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ViZG96MGVneXFiM2I5MHE4Y3N3OHpqdGlqcTkwNHBibXQ0a3NqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif">
 
 <h3 align="center">
   Welcome to Yousef Hisham's profile!
@@ -11,6 +10,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
+
+<img width="250" align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ViZG96MGVneXFiM2I5MHE4Y3N3OHpqdGlqcTkwNHBibXQ0a3NqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif">
 
 - 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
