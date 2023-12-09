@@ -30,5 +30,5 @@
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux%20-05122A?style=flat&logo=linux)&nbsp;
 
-<img width="250" align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3c5OHdkdXZtYmFxamNwc3d0MGptdnJ6bXNlcTFlcDhjZGR3cjI1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzJGtYzvCs4mNf4zFa/giphy.gif">
+<img width="250" align="left" src="https://media.giphy.com/media/Q1jJFLYDqb5zv2DSIE/giphy.gif">
 
