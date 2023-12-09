@@ -11,8 +11,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber%20security%20enthausiast;Always%20learning;%20Always%20hunting!!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🌱 I’m currently learning backend development (NODE.JS)
+- 🌱 I’m currently learning backend development
 - 🏹 I’m currently learning Web security
+- 🔭 I’m currently working on Automation
 - 👯 I’m looking to collaborate on BugBounty Automation Scripts 
 
 ### 🛠 &nbsp;Tech Stack
@@ -25,6 +26,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Mysql](https://img.shields.io/badge/-MySQL%20-05122A?style=flat&logo=mysql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux%20-05122A?style=flat&logo=linux)&nbsp;
 
